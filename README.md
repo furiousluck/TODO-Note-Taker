@@ -45,3 +45,7 @@ Tired of modern Note/Task taker , try this simplified version of those and retur
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/adarsh-singh-7bb96a1b7/
+[product-screenshot]: https://imgur.com/a/sKsWzsf
