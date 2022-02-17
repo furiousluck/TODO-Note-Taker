@@ -1,0 +1,3 @@
+for login.html:
+<!-- {{text}} {{user}} -->
+<!-- {{}} is used to pass variable -->
